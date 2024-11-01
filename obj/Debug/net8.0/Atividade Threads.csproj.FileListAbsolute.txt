@@ -1,0 +1,14 @@
+C:\Users\Serafim\Desktop\FACULDADE - PUC MINAS\Quarto Semestre\Desenvolvimento de Aplicações moveis\Atividade Threads\bin\Debug\net8.0\Atividade Threads.exe
+C:\Users\Serafim\Desktop\FACULDADE - PUC MINAS\Quarto Semestre\Desenvolvimento de Aplicações moveis\Atividade Threads\bin\Debug\net8.0\Atividade Threads.deps.json
+C:\Users\Serafim\Desktop\FACULDADE - PUC MINAS\Quarto Semestre\Desenvolvimento de Aplicações moveis\Atividade Threads\bin\Debug\net8.0\Atividade Threads.runtimeconfig.json
+C:\Users\Serafim\Desktop\FACULDADE - PUC MINAS\Quarto Semestre\Desenvolvimento de Aplicações moveis\Atividade Threads\bin\Debug\net8.0\Atividade Threads.dll
+C:\Users\Serafim\Desktop\FACULDADE - PUC MINAS\Quarto Semestre\Desenvolvimento de Aplicações moveis\Atividade Threads\bin\Debug\net8.0\Atividade Threads.pdb
+C:\Users\Serafim\Desktop\FACULDADE - PUC MINAS\Quarto Semestre\Desenvolvimento de Aplicações moveis\Atividade Threads\obj\Debug\net8.0\Atividade Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serafim\Desktop\FACULDADE - PUC MINAS\Quarto Semestre\Desenvolvimento de Aplicações moveis\Atividade Threads\obj\Debug\net8.0\Atividade Threads.AssemblyInfoInputs.cache
+C:\Users\Serafim\Desktop\FACULDADE - PUC MINAS\Quarto Semestre\Desenvolvimento de Aplicações moveis\Atividade Threads\obj\Debug\net8.0\Atividade Threads.AssemblyInfo.cs
+C:\Users\Serafim\Desktop\FACULDADE - PUC MINAS\Quarto Semestre\Desenvolvimento de Aplicações moveis\Atividade Threads\obj\Debug\net8.0\Atividade Threads.csproj.CoreCompileInputs.cache
+C:\Users\Serafim\Desktop\FACULDADE - PUC MINAS\Quarto Semestre\Desenvolvimento de Aplicações moveis\Atividade Threads\obj\Debug\net8.0\Atividade Threads.dll
+C:\Users\Serafim\Desktop\FACULDADE - PUC MINAS\Quarto Semestre\Desenvolvimento de Aplicações moveis\Atividade Threads\obj\Debug\net8.0\refint\Atividade Threads.dll
+C:\Users\Serafim\Desktop\FACULDADE - PUC MINAS\Quarto Semestre\Desenvolvimento de Aplicações moveis\Atividade Threads\obj\Debug\net8.0\Atividade Threads.pdb
+C:\Users\Serafim\Desktop\FACULDADE - PUC MINAS\Quarto Semestre\Desenvolvimento de Aplicações moveis\Atividade Threads\obj\Debug\net8.0\Atividade Threads.genruntimeconfig.cache
+C:\Users\Serafim\Desktop\FACULDADE - PUC MINAS\Quarto Semestre\Desenvolvimento de Aplicações moveis\Atividade Threads\obj\Debug\net8.0\ref\Atividade Threads.dll
